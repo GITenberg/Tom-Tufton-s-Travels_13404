@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '4888'
     url: http://www.gutenberg.org/2009/agents/4888
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13404#Tom-Tufton-s-Travels
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-09-09'
 gutenberg_type: Text
