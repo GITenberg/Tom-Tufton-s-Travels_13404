@@ -1,0 +1,35 @@
+_repo: Tom-Tufton-s-Travels_13404
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Adair, Cecil
+    - Everett-Green, E. (Evelyn)
+    - Ward, E.
+    - Dare, Evelyn
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: Cover -- Contents.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anne, 1702-1714 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Brigands and robbers -- Juvenile fiction'
+- !lcsh 'Historical fiction'
+title: Tom Tufton's Travels
+url: http://www.gutenberg.org/ebooks/13404
